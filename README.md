@@ -1,4 +1,4 @@
-# Resolution Rate for Work Orders | Google Cloud & Mage Pipeline
+# Resolution Rate for Work Orders | Google Cloud & Mage Data Pipeline
 An end-to-end data pipeline solution to process and analyze Maintenance Work Orders using Mage, Google BigQuery, MariaDB, and Looker Studio. This project features integration of cloud tools for scalable data storage, transformation, and visualization based on Client requirements.
 
 # Business Case
